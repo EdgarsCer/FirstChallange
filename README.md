@@ -1,2 +1,0 @@
-# FirstChallange
-First weeks challange

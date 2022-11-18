@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(196, 231, 158);
+}
+
+footer{
+    background-color: rgb(11, 11, 113);
+    color: aliceblue;
+}
+
+
+header{
+    font-size: 25px;
+    color: blueviolet;
+}
